@@ -1,6 +1,6 @@
 {
   "coderanch-animations": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "description": "RedM Animation Menu Created by CodeRanch Team",
     "changelog": [
       "Inital"
@@ -8,3 +8,4 @@
   }
 
 }
+
