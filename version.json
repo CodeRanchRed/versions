@@ -5,7 +5,15 @@
     "changelog": [
       "Inital"
     ]
+  },
+  "coderanch-housing" {
+    "version": "1.0.0",
+    "description": "RedM Housing System Created by CodeRanch Team",
+    "changelog": [
+      "Inital"
+    ]
   }
 
 }
+
 
