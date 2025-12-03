@@ -12,5 +12,15 @@
       "Issue with ped reproducing fixed.",
       "Issue with menu not properly closing fixed."
     ]
+  },
+  {
+  "coderanch-waypoints": {
+    "version": "1.0.0",
+    "description": "RedM Waypoints System Created by CodeRanch Team",
+    "changelog": [
+      "Initial commit for coderanch-waypoints."
+    ]
   }
 }
+}
+
