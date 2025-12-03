@@ -3,14 +3,14 @@
     "version": "1.0.1",
     "description": "RedM Animation Menu Created by CodeRanch Team",
     "changelog": [
-      "Inital"
+      "Config option added to enable/disable sit prompts on chairs.",
+      "Added /sit command to use instead of showing prompts on chairs.",
+      "Config option added to enable/disable the left image on the UI.",
+      "Piggy Back animation added (duo).",
+      "Config option to directly play animations instead of going through animpos.",
+      "/stopduo command added to stop duo animations.",
+      "Issue with ped reproducing fixed.",
+      "Issue with menu not properly closing fixed."
     ]
   }
-
-
 }
-
-
-
-
-
