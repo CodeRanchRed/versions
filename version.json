@@ -13,14 +13,18 @@
       "Issue with menu not properly closing fixed."
     ]
   },
-  {
   "coderanch-waypoints": {
     "version": "1.0.0",
     "description": "RedM Waypoints System Created by CodeRanch Team",
     "changelog": [
       "Initial commit for coderanch-waypoints."
     ]
+  },
+  "cBase": {
+    "version": "1.0.0",
+    "description": "RedM cBase Framework Created by CodeRanch Team",
+    "changelog": [
+      "Initial release of cBase."
+    ]
   }
 }
-}
-
