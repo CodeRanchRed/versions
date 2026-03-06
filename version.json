@@ -26,5 +26,13 @@
     "changelog": [
       "Initial release of cBase."
     ]
+  },
+  "cMarket": {
+    "version": "1.0.0",
+    "description": "RedM Market System Created by CodeRanch Team",
+    "changelog": [
+      "Initial release of cMarket."
+    ]
   }
 }
+
