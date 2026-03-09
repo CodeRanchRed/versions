@@ -33,6 +33,14 @@
     "changelog": [
       "Initial release of cMarket."
     ]
-  }
+  },
+  "cFishing": {
+    "version": "1.0.0",
+    "description": "RedM Fishing System Created by CodeRanch Team",
+    "changelog": [
+      "Initial release of cFishing."
+    ]
+  },
 }
+
 
