@@ -42,7 +42,15 @@
       "Initial release of cFishing."
     ]
   },
+  "cFarming": {
+    "version": "1.0.0",
+    "description": "RedM Farming Job System Created by CodeRanch Team",
+    "changelog": [
+      "Initial release of cFarming."
+    ]
+  },
 }
+
 
 
 
