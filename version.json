@@ -49,7 +49,15 @@
       "Initial release of cFarming."
     ]
   },
+  "cBoxDelivery": {
+    "version": "1.0.0",
+    "description": "RedM Box Delivery Job System Created by CodeRanch Team",
+    "changelog": [
+      "Initial release of cBoxDelivery."
+    ]
+  },
 }
+
 
 
 
