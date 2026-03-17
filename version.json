@@ -21,10 +21,10 @@
     ]
   },
   "cBase": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "RedM cBase Framework Created by CodeRanch Team",
     "changelog": [
-      "Initial release of cBase."
+      "Updated client events and functions."
     ]
   },
   "cMarket": {
