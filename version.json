@@ -51,10 +51,10 @@
     ]
   },
   "cBoxDelivery": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "RedM Box Delivery Job System Created by CodeRanch Team",
     "changelog": [
-      "Initial release of cBoxDelivery."
+      "The payment method has been changed to cash."
     ]
   },
 }
