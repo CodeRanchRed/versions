@@ -57,6 +57,13 @@
       "The payment method has been changed to cash."
     ]
   },
+  "cInventory": {
+    "version": "1.0.0",
+    "description": "RedM Standalone [Vorp, RSG, RedemRP] Inventory System",
+    "changelog": [
+      "Initial release of cInventory."
+    ]
+  },
 }
 
 
