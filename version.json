@@ -64,6 +64,13 @@
       "Initial release of cInventory."
     ]
   },
+  "cDeathScreen": {
+    "version": "1.0.0",
+    "description": "RedM Standalone [Vorp, RSG, RedemRP] DeathScreen System",
+    "changelog": [
+      "Initial release of cDeathScreen."
+    ]
+  },
 }
 
 
