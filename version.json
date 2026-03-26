@@ -70,6 +70,13 @@
       "Initial release of cDeathScreen."
     ]
   },
+  "cMulticharacter": {
+    "version": "1.0.0",
+    "description": "RedM Vorp Multicharacter System",
+    "changelog": [
+      "Initial release of cMulticharacter."
+    ]
+  },
 }
 
 
