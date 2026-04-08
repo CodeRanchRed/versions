@@ -77,6 +77,13 @@
       "Initial release of cMulticharacter."
     ]
   },
+  "cPauseMenu": {
+    "version": "1.0.0",
+    "description": "RedM Pause Menu System",
+    "changelog": [
+      "Initial release of cPauseMenu."
+    ]
+  },
 }
 
 
