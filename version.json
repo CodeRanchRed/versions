@@ -84,6 +84,13 @@
       "Initial release of cPauseMenu."
     ]
   },
+  "cEvidence": {
+    "version": "1.0.0",
+    "description": "RedM Evidence System",
+    "changelog": [
+      "Initial release of cEvidence."
+    ]
+  },
 }
 
 
