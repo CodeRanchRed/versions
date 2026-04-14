@@ -28,11 +28,13 @@
     ]
   },
   "cMarket": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "RedM Market System Created by CodeRanch Team",
     "changelog": [
-      "Added option to filter by category in the shop menu",
-      "Added category to each item in buy and sell config for menu navigation"
+      "Added support for multiple independent shops per location",
+      "Added per-item quantity limits to prevent exploit buying/selling",
+      "Added server-side validation for quantities, prices, and item ownership",
+      "DrawText now dynamically centers above NPC using live entity position and model height"
     ]
   },
   "cFishing": {
