@@ -93,6 +93,13 @@
       "Initial release of cEvidence."
     ]
   },
+  "cChat": {
+    "version": "1.0.0",
+    "description": "RedM Chat System",
+    "changelog": [
+      "Initial release of cChat."
+    ]
+  },
 }
 
 
