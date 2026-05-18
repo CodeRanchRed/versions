@@ -100,6 +100,13 @@
       "Initial release of cChat."
     ]
   },
+  "vorp_inventory": {
+    "version": "1.0.0",
+    "description": "RedM Inventory System [vorp_inventory enchanced]",
+    "changelog": [
+      "Initial release of vorp_inventory."
+    ]
+  },
 }
 
 
