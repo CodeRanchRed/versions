@@ -101,10 +101,27 @@
     ]
   },
   "vorp_inventory": {
-    "version": "1.0.0",
-    "description": "RedM Inventory System [vorp_inventory enchanced]",
+    "version": "1.1.0",
+    "description": "RedM Inventory System [vorp_inventory enhanced]",
     "changelog": [
-      "Initial release of vorp_inventory."
+      "Fixed issue where money and gold items were not draggable into the give button and were not transferring to other players.",
+      "Fixed nil cleanup table crashes and nil character lastname crashes.",
+      "Allowed cash and gold give transfers with decimal amounts.",
+      "Formatted cash and gold inventory counts cleanly.",
+      "Prevented damaged and fresh item stacks from merging.",
+      "Hid duplicate lumber durability metadata in item info.",
+      "Prevented empty hotkeys from triggering default weapon holster behavior.",
+      "Moved longarms and bows to the back slot instead of holster.",
+      "Hotkeys no longer fire while inventory is open, so typing 1, 2, etc. in the amount input will not equip or use hotbar items.",
+      "Dual wield now directly handles the second one-handed weapon when Config.DuelWield is true, marks it as offhand used2, equips it, and skips the normal single-weapon branch.",
+      "Locked equipped weapon slots until the weapon is fully unequipped.",
+      "Added drop inventory prop marker config.",
+      "Fixed issue with bows not equipping.",
+      "Added green E indicator on equipped weapons.",
+      "Fixed hotbar keys.",
+      "Hotbar can still be opened with Tab.",
+      "Pressing hotbar keys 1, 2, 3, 4, or 5 equips or fully unequips the assigned weapon.",
+      "Pressing Shift + hotbar key holsters or unholsters the assigned weapon."
     ]
   },
 }
