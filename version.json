@@ -101,32 +101,23 @@
     ]
   },
   "vorp_inventory": {
-    "version": "1.1.0",
+    "version": "1.1.5",
     "description": "RedM Inventory System [vorp_inventory enhanced]",
     "changelog": [
-      "Fixed issue where money and gold items were not draggable into the give button and were not transferring to other players.",
-      "Fixed nil cleanup table crashes and nil character lastname crashes.",
-      "Allowed cash and gold give transfers with decimal amounts.",
-      "Formatted cash and gold inventory counts cleanly.",
-      "Prevented damaged and fresh item stacks from merging.",
-      "Hid duplicate lumber durability metadata in item info.",
-      "Prevented empty hotkeys from triggering default weapon holster behavior.",
-      "Moved longarms and bows to the back slot instead of holster.",
-      "Hotkeys no longer fire while inventory is open, so typing 1, 2, etc. in the amount input will not equip or use hotbar items.",
-      "Dual wield now directly handles the second one-handed weapon when Config.DuelWield is true, marks it as offhand used2, equips it, and skips the normal single-weapon branch.",
-      "Locked equipped weapon slots until the weapon is fully unequipped.",
-      "Added drop inventory prop marker config.",
-      "Fixed issue with bows not equipping.",
-      "Added green E indicator on equipped weapons.",
-      "Fixed hotbar keys.",
-      "Hotbar can still be opened with Tab.",
-      "Pressing hotbar keys 1, 2, 3, 4, or 5 equips or fully unequips the assigned weapon.",
-      "Pressing Shift + hotbar key holsters or unholsters the assigned weapon."
+      "Fixed items disappearing in personal and secondary inventories due to duplicate slot collisions.",
+      "Fixed dropped weapons not appearing in the drop panel until another item was moved.",
+      "Fixed lasso equipping to holster instead of hand; now holsters properly when put away.",
+      "Fixed bow arrow duplication on re-equip; ammo now reads from live arrow pool only.",
+      "Fixed hotbar keys all triggering holster; Left Shift is now the only holster modifier.",
+      "Fixed UI locale not working and added missing movedToStorage/takenFromStorage strings.",
+      "Fixed dual wield offhand detection for matching weapon hashes.",
+      "Fixed secondary inventory stack and slot DB updates for shared/custom inventories.",
+      "Preserved equipped/holstered weapon state across inventory reloads.",
+      "Added cooler and refrigerator stash types via config stashType field.",
+      "Added food preservation system: items decay based on temperature, weather, and storage type; rotten food fires vorp_inventory:Server:OnRottenItemUse.",
+      "Added weapon registry with /registerweapon and /checkserial commands, job-locked station UI, serial search, and auto-created DB table.",
+      "Added worn-clothes indicator in the clothing menu via vorp_inventory:setWornClothing export.",
+      "Added click-to-copy serial number in the item context menu."
     ]
-  },
+  }
 }
-
-
-
-
-
